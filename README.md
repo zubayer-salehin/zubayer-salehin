@@ -1,6 +1,6 @@
 ![I am Web Developer](https://media-exp2.licdn.com/dms/image/C4E16AQGkkaW6g2FS3g/profile-displaybackgroundimage-shrink_200_800/0/1654704555145?e=1661385600&v=beta&t=5yD7DARMwcIYGYSvQGY-ZVThk-IPAajeiugfigcjxOQ)
 
-### Hi there 👋, Hi, I'm Mohammad Zubayer Salehin
+### Hi, I'm Mohammad Zubayer Salehin 👋
 #### I am Web Developer
 
 I am Mern Stack Web Developer. Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in Front End Development (JavaScript, Rest API, React js, HTML5, CSS3, Bootstrap, Tailwind CSS) and Back End Development (Node js, Exress js), (Research & Learning Web Development. Engineering Study’s from Diploma In Computer Science & Technology.
