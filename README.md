@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Notex](https://notextech.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://zubayer-salehin.netlify.app](https://zubayer-salehin.netlify.app)
+- 👨‍💻 All of my projects are available at [https://zubayer-salehin.netlify.app](https://zubayer-chi.vercel.app)
 
 - 📝 I regularly write articles on [medium](https://md-nayeem-hossain.medium.com/to-know-about-react-js-e04860e64bbe)
 
