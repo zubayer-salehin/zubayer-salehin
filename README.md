@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayer-salehin" alt="zubayer-salehin" /></a> </p>
 
-- 🔭 I’m currently working on [AffsFlow](https://gypsyadvisor.com)
+- 🔭 I’m currently working on [AffsFlow](https://affsflow.com)
 
-- 🌱 I’m currently learning **TypeScript, Next Js, GraphQl, AWS, Docar, CICD, SQL etc.**
+- 🌱 I’m currently learning **GraphQl, AWS, Docar, CICD, SQL etc.**
 
 - 👯 I’m looking to collaborate on [Notex](https://notextech.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://zubayer-salehin.netlify.app](https://zubayer-chi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://zubayer-salehin.com](https://zubayer-chi.vercel.app)
 
 - 📝 I regularly write articles on [medium](https://md-nayeem-hossain.medium.com/to-know-about-react-js-e04860e64bbe)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zubayersalehin1@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1RLY2AQN7xr3VuZt6Iihe6f0atda-KInB/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1le1euOPD69QFBVNAOsrj4t8awiweedit/view?usp=sharing)
 
 - ⚡ Fun fact **Code is fun.**
 
