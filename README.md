@@ -144,7 +144,7 @@
 
 ### 🚀 **NASA Space Apps Challenge Project**
 **Moon Colony** - Sustainable lunar base with solar power & smart systems
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mdnuruzzamanemon/moon-colony)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zubayer-salehin/moon-colony)
 
 </div>
 
@@ -183,9 +183,11 @@
 
 | Role | Company | Duration | Highlights |
 |------|---------|----------|------------|
-| **Founder & CTO** | PirhoTech | 2023 - Present | 🚀 30+ projects delivered, 15K+ users |
-| **Web Developer** | Sotter Somachar | 2021 - 2022 | 🔧 Maintenance & backend improvements |
-| **Student** | Green University | 2022 - Present | 🎓 CSE, GPA: 3.51/4.0 |
+| **Full-Stack Developer** | Brand Tech | 2024 - Present | 🔧 Ongoing maintenance & backend feature development |
+| **Backend Developer** | Sparrowan | 2024 | 🔧 System maintenance & backend optimizations |
+| **Full-Stack Developer** | Ishqool | 2023 - 2024 | 🔧 Web app maintenance & backend improvements |
+| **Co-Founder** | Notex | 2023 - Present | 🚀 Delivered 30+ projects, serving 50K+ users |
+| **Student** | Kishoreganj Polytechnic Institute | 2019 - 2024 | 🎓 Diploma in CSE, GPA: 3.50/4.0 |
 
 </div>
 
