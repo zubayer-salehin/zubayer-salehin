@@ -232,6 +232,6 @@
 
 **Thanks for visiting! If you like what you see, drop a ⭐**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mdnuruzzamanemon&label=Profile%20Views&color=brightgreen&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=zubayer-salehin&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 </div>
