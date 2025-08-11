@@ -80,11 +80,10 @@
 
 <div align="center">
 
-### 🌟 **PirhoTech Agency** - *Founder & CTO*
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pirhotech.com)
-[![Old Version](https://img.shields.io/badge/Old%20Version-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pirhotech-old-website.pirhotech.com/)
+### 🌟 **Notex** - *Co-Founder*
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notex.com)
 
-**🚀 30+ Projects Delivered | 15K+ Users Served**
+**🚀 30+ Projects Delivered | 50K+ Users Served**
 - Built with **Next.js** and **Three.js** for stunning 3D visuals
 - Showcases comprehensive agency services and portfolio
 
@@ -154,13 +153,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamanemon&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdnuruzzamanemon&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zubayer-salehin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zubayer-salehin&theme=radical&hide_border=true" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnuruzzamanemon&layout=compact&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnuruzzamanemon&theme=redical&hide_border=true&area=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubayer-salehin&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubayer-salehin&theme=redical&hide_border=true&area=true" height="180px"/>
 </div>
 
 ---
@@ -170,10 +169,9 @@
 <div align="center">
 
 🏆 **NASA International Space Apps Challenge** - Global Hackathon Participant  
-🎓 **The Complete Full-Stack Web Development Bootcamp** - Udemy Certified  
-🏢 **Founded PirhoTech** - Scaled to 30+ projects across diverse industries  
-👨‍💻 **5+ Years Experience** - Full-stack development & team leadership  
-📱 **Published Android App** - Brain Adorn puzzle game on Google Play Store  
+🎓 **The Complete Full-Stack Web Development Course** - Programming Hero Certified  
+🏢 **Co-Founded Notex** - Scaled to 30+ projects across diverse industries  
+👨‍💻 **3+ Years Experience** - Full-stack development & team leadership   
 
 </div>
 
@@ -215,10 +213,10 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://emon.pirhotech.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mdnuruzzamanemon/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:mdnuruzzamanemon@gmail.com)
-[![PirhoTech](https://img.shields.io/badge/🏢_PirhoTech-4CAF50?style=for-the-badge&logoColor=white)](https://pirhotech.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://zubayer-chi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/zubayer-salehin)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:zubayersalehin1@gmail.com)
+[![Notex](https://img.shields.io/badge/🏢_PirhoTech-4CAF50?style=for-the-badge&logoColor=white)](https://notex.com)
 
 </div>
 
