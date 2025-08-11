@@ -138,8 +138,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zubayer-salehin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zubayer-salehin" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem1816&show_icons=true&locale=en&layout=compact" alt="zubayer-salehin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubayer-salehin&show_icons=true&locale=en&layout=compact" alt="zubayer-salehin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayem1816&show_icons=true&locale=en" alt="zubayer-salehin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubayer-salehin&show_icons=true&locale=en" alt="zubayer-salehin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayem1816&" alt="nayem1816" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayer-salehin&" alt="zubayer-salehin" /></p>
