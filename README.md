@@ -25,7 +25,7 @@
 
 🏢 **Co-Founder** at **Notex** - Delivered **30+ projects** serving **50K+ users**
 
-🎓 **Diploma in Computer Engineering** from Kishoreganj Polytechnic Institute & **Computer Science Graduate** from Green University of Bangladesh (**GPA: 3.50/4.0**)
+🎓 **Diploma in Computer Engineering** from Kishoreganj Polytechnic Institute (**GPA: 3.50/4.0**)
 
 💼 Developed a **CRM system** for the **AffsFlow** project
 
