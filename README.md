@@ -23,7 +23,7 @@
 
 🎯 **Full-Stack Developer** with **3+ years** of experience building scalable web applications
 
-🏢 **Co-Founder** at **Notex** - Delivered **30+ projects** serving **50K+ users**
+🏢 **Co-Founder** at **Phraxar** - Delivered **30+ projects** serving **50K+ users**
 
 🎓 **Diploma in Computer Engineering** from Kishoreganj Polytechnic Institute (**GPA: 3.50/4.0**)
 
