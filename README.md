@@ -79,7 +79,7 @@
 
 <div align="center">
 
-### 🌟 **Notex** - *Co-Founder*
+### 🌟 **Phraxar** - *Co-Founder*
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notex.com)
 
 **🚀 30+ Projects Delivered | 50K+ Users Served**
